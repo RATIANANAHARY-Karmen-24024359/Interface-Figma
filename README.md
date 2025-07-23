@@ -1,6 +1,6 @@
 # 🗺️ Circuit Touristique - Aix-en-Provence
 
-**Lien vers la maquette Figma :** [👉 Voir la maquette](https://www.figma.com/proto/Gi9g98YJV9s1erSJUP5i7G/S105--%7C-BARBERIS---HELALI---MEKIDICHE---RATIANANAHARY---STEFANOVITCH---WATRIPONT--Copy-?node-id=2233-703&starting-point-node-id=89%3A83)
+**Lien vers la maquette Figma :** [👉 Voir la maquette](https://www.figma.com/proto/Gi9g98YJV9s1erSJUP5i7G/S105--%7C-BARBERIS---HELALI---MEKIDICHE---RATIANANAHARY---STEFANOVITCH---WATRIPONT--Copy-?node-id=89-83&starting-point-node-id=89%3A83)
 
 ## 🎯 Présentation du projet
 
